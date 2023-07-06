@@ -1,0 +1,9 @@
+body{
+    background-image: url("background-minecraft-with-shaders1.jpg");
+}
+#canva{
+    background-color: white;
+    border-color: #4343cc;
+    border-width: 5px;
+    border-style: dashed;
+}
